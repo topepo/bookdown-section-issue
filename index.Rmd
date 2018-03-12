@@ -1,0 +1,33 @@
+--- 
+title: "something something something"
+author: "Max Kuhn"
+date: "`r Sys.Date()`"
+documentclass: krantz
+classoption: numberinsequence
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+colorlinks: yes
+graphics: yes
+---
+
+# Preface {-}
+
+A note to reviewers: this book is being created using [bookdown](https://bookdown.org) for both HTML and PDF (via LaTeX). Aesthetic aspects of the content, such as the sizing and placement of figures, will be optimized at once the content has been finalized. 
+
+The R packages and versions used in this text are:
+
+```{r load, include = FALSE, warning=FALSE,message=FALSE}
+library(sessioninfo)
+library(bookdown)
+library(rmarkdown)
+```
+```{r session}
+sessionInfo()
+```
+
+\mainmatter
+
+some stuff here
+
+

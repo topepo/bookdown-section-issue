@@ -1,0 +1,8 @@
+new_session: yes    
+output_dir: working_files
+book_filename: feature_art
+clean: [bookdown.bbl]
+language:
+  label:
+    fig: "Fig. "
+    tab: "Table "

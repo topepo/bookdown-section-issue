@@ -1,0 +1,73 @@
+
+
+
+# Seven Nation Army {#intro-intro}
+
+
+Some text randomly pulled from playlist: 
+
+Lyrics by White Stripes
+
+Seven Nation Army
+The White Stripes
+I'm gonna fight 'em all
+A seven nation army couldn't hold me back
+They're gonna rip it off
+Taking their time right behind my back
+And I'm talking to myself at night
+Because I can't forget
+Back and forth through my mind
+Behind a cigarette
+And the message coming from my eyes
+Says leave it alone
+Don't want to hear about it
+Every single one's got a story to tell
+Everyone knows about it
+From the Queen of England to the hounds of hell
+And if I catch it coming back my way
+I'm gonna serve it to you
+And that ain't what you want to hear
+But that's what I'll do
+And the feeling coming from my bones
+Says find a home
+I'm going to Wichita
+Far from this opera for evermore
+I'm gonna work the straw
+Make the sweat drip out of every pore
+And I'm bleeding, and I'm bleeding, and I'm bleeding
+Right before the lord
+All the words are gonna bleed from me
+And I will sing no more
+And the stains coming from my blood
+Tell me go back home
+
+## My Mathematical Mind
+
+
+by Spoon
+
+I want to change your mind
+Said I want to set it right this time
+I'm looking through you
+You know who you are
+And planning for the apocalypse
+Is not considered
+Considered cool
+I don't suggest it myself
+But no I won't sweat
+I want to change your ways
+Said I'm gonna get it right one of these days
+And I'm looking through you
+Riding the brakes
+Bringing about the apocalypse
+Is not considered
+Considered cool
+Still you go setting it up
+But never give it a thought
+Just go setting it up
+My mathematical mind can see the breaks
+So I'm gonna stop riding the brakes
+No no no no more ride the brakes
+Instead I'm gonna see your stakes
+Yeah I'm gonna see the stakes
+
