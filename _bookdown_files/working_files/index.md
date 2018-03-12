@@ -39,13 +39,13 @@ sessionInfo()
 ## [1] stats     graphics  grDevices utils     datasets  base     
 ## 
 ## other attached packages:
-## [1] rmarkdown_1.8     bookdown_0.7      sessioninfo_1.0.0
+## [1] rmarkdown_1.9.3   bookdown_0.7.1    sessioninfo_1.0.0
 ## 
 ## loaded via a namespace (and not attached):
 ##  [1] Rcpp_0.12.15     clisymbols_1.2.0 withr_2.1.1      digest_0.6.15   
 ##  [5] rprojroot_1.3-2  backports_1.1.2  magrittr_1.5     evaluate_0.10.1 
 ##  [9] stringi_1.1.6    tools_3.4.3      stringr_1.3.0    xfun_0.1        
-## [13] yaml_2.1.16      compiler_3.4.3   htmltools_0.3.6  knitr_1.20      
+## [13] yaml_2.1.18      compiler_3.4.3   htmltools_0.3.6  knitr_1.20      
 ## [17] methods_3.4.3
 ```
 
