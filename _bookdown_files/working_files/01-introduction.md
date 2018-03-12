@@ -1,7 +1,6 @@
-
-
-
 # Seven Nation Army {#intro-intro}
+
+
 
 
 Some text randomly pulled from playlist: 

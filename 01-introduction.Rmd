@@ -1,3 +1,5 @@
+# Seven Nation Army {#intro-intro}
+
 ```{r intro_startup, echo=FALSE, message=FALSE, warning=FALSE, results = 'hide'}
 library(knitr)
 opts_chunk$set(comment="   ", 
@@ -15,9 +17,6 @@ if(!interactive())
 library(ggplot2)
 theme_set(theme_bw() + theme(legend.position = "top"))
 ```
-
-
-# Seven Nation Army {#intro-intro}
 
 
 Some text randomly pulled from playlist: 
